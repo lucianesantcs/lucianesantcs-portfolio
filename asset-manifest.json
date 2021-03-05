@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.333b131f.chunk.css",
-    "main.js": "/static/js/main.8f85a34c.chunk.js",
-    "main.js.map": "/static/js/main.8f85a34c.chunk.js.map",
+    "main.js": "/static/js/main.071c7a1f.chunk.js",
+    "main.js.map": "/static/js/main.071c7a1f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2fd7dc15.js",
     "runtime-main.js.map": "/static/js/runtime-main.2fd7dc15.js.map",
     "static/js/2.0bba84a3.chunk.js": "/static/js/2.0bba84a3.chunk.js",
@@ -21,6 +21,7 @@
     "static/media/proffy.17a75d8b.png": "/static/media/proffy.17a75d8b.png",
     "static/media/quizz.ad0124f3.png": "/static/media/quizz.ad0124f3.png",
     "static/media/selfcare.3812569e.png": "/static/media/selfcare.3812569e.png",
+    "static/media/tic-tac-toe.8f930558.png": "/static/media/tic-tac-toe.8f930558.png",
     "static/media/todo.ec77720b.png": "/static/media/todo.ec77720b.png",
     "static/media/ultra-landing-page.1cbb9a97.png": "/static/media/ultra-landing-page.1cbb9a97.png",
     "static/media/work-plin.f2e39f50.png": "/static/media/work-plin.f2e39f50.png"
@@ -29,6 +30,6 @@
     "static/js/runtime-main.2fd7dc15.js",
     "static/js/2.0bba84a3.chunk.js",
     "static/css/main.333b131f.chunk.css",
-    "static/js/main.8f85a34c.chunk.js"
+    "static/js/main.071c7a1f.chunk.js"
   ]
 }
