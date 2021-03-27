@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.4028a689.chunk.css",
-    "main.js": "/static/js/main.e2d65280.chunk.js",
-    "main.js.map": "/static/js/main.e2d65280.chunk.js.map",
+    "main.js": "/static/js/main.45198084.chunk.js",
+    "main.js.map": "/static/js/main.45198084.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2fd7dc15.js",
     "runtime-main.js.map": "/static/js/runtime-main.2fd7dc15.js.map",
     "static/js/2.0bba84a3.chunk.js": "/static/js/2.0bba84a3.chunk.js",
@@ -24,13 +24,12 @@
     "static/media/selfcare.3812569e.png": "/static/media/selfcare.3812569e.png",
     "static/media/tic-tac-toe.8f930558.png": "/static/media/tic-tac-toe.8f930558.png",
     "static/media/todo.ec77720b.png": "/static/media/todo.ec77720b.png",
-    "static/media/ultra-landing-page.1cbb9a97.png": "/static/media/ultra-landing-page.1cbb9a97.png",
     "static/media/work-plin.f2e39f50.png": "/static/media/work-plin.f2e39f50.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2fd7dc15.js",
     "static/js/2.0bba84a3.chunk.js",
     "static/css/main.4028a689.chunk.css",
-    "static/js/main.e2d65280.chunk.js"
+    "static/js/main.45198084.chunk.js"
   ]
 }
