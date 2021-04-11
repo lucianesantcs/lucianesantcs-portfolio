@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.4028a689.chunk.css",
-    "main.js": "/static/js/main.2cd83bfc.chunk.js",
-    "main.js.map": "/static/js/main.2cd83bfc.chunk.js.map",
+    "main.js": "/static/js/main.3902f6bf.chunk.js",
+    "main.js.map": "/static/js/main.3902f6bf.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2fd7dc15.js",
     "runtime-main.js.map": "/static/js/runtime-main.2fd7dc15.js.map",
     "static/js/2.0bba84a3.chunk.js": "/static/js/2.0bba84a3.chunk.js",
@@ -13,6 +13,7 @@
     "static/media/amazing-graph.a057ab52.png": "/static/media/amazing-graph.a057ab52.png",
     "static/media/animais-fantasticos.9177a639.png": "/static/media/animais-fantasticos.9177a639.png",
     "static/media/be-the-hero.abf30391.png": "/static/media/be-the-hero.abf30391.png",
+    "static/media/counter.63219295.png": "/static/media/counter.63219295.png",
     "static/media/credit-card.f16734e3.png": "/static/media/credit-card.f16734e3.png",
     "static/media/doe.bc733875.png": "/static/media/doe.bc733875.png",
     "static/media/get-coffee.f5c36374.png": "/static/media/get-coffee.f5c36374.png",
@@ -30,6 +31,6 @@
     "static/js/runtime-main.2fd7dc15.js",
     "static/js/2.0bba84a3.chunk.js",
     "static/css/main.4028a689.chunk.css",
-    "static/js/main.2cd83bfc.chunk.js"
+    "static/js/main.3902f6bf.chunk.js"
   ]
 }
